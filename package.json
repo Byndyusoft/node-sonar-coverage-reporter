@@ -38,7 +38,7 @@
     "prepublishOnly": "pinst --disable",
     "postpublish": "pinst --enable",
     "test": "jest",
-    "test:cov": "jest --coverage"
+    "test:cov": "cross-env FORCE_COLOR=true jest --coverage"
   },
   "jest": {
     "collectCoverageFrom": [
@@ -87,6 +87,7 @@
     "@types/istanbul-lib-report": "^3.0.0",
     "@types/jest": "^27.4.0",
     "@types/node": "^17.0.10",
+    "cross-env": "^7.0.3",
     "eslint": "^7.32.0",
     "husky": "^7.0.4",
     "istanbul-lib-coverage": "^3.2.0",
