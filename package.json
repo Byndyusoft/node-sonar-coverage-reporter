@@ -95,7 +95,7 @@
     "jest-extended": "^1.2.0",
     "jest-mock-extended": "^2.0.4",
     "lint-staged": "^12.2.2",
-    "markdownlint-cli": "^0.30.0",
+    "markdownlint-cli": "^0.32.2",
     "pinst": "^2.1.6",
     "prettier": "^2.5.1",
     "prettier-plugin-packagejson": "^2.2.15",
