@@ -94,7 +94,7 @@
     "jest": "^27.4.7",
     "jest-extended": "^1.2.0",
     "jest-mock-extended": "^2.0.4",
-    "lint-staged": "^12.2.2",
+    "lint-staged": "^13.1.1",
     "markdownlint-cli": "^0.30.0",
     "pinst": "^2.1.6",
     "prettier": "^2.5.1",
